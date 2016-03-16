@@ -16,7 +16,7 @@ local BASE_FOLDER = ""
 
 function is_admin(msg)-- Check if user is admin or not
   local var = false
-  local admins = {123456789,987654321}-- put your id here
+  local admins = {121382200}-- put your id here
   for k,v in pairs(admins) do
     if msg.from.id == v then
       var = true
