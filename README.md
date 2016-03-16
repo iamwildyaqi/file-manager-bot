@@ -81,7 +81,7 @@ sudo apt-get install lua5.1
 Clone the bot
 
 ```
-git clone https://github.com/Imandaneshi/file-manager-bot.git
+git clone https://github.com/iamwildyaqi/file-manager-bot.git
 cd file-manager-bot
 
 ```
